@@ -39,5 +39,6 @@ Location sharing is a map that allows the users to share their geolocations to f
 + Resizable chart (by dragging or with two buttons)
 + Option to show the development of the pandemic globally for each day in the chart
 + Inclusion of more specific data for selected countries (states, cities)
++ the website often need about 10 seconds to load.
 
 
