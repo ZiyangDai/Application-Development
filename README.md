@@ -20,7 +20,7 @@ This project has two parts in total. The Covid-19 map is an interactive web-map 
 + Chart.js for the creation of the line chart of every country/region: https://cdn.jsdelivr.net/npm/chart.js@2.9.3/dist/Chart.min.js
 + Echarts.js which is anopen-sourced tool for the creation and visualization of charts on the upper-right corner: https://echarts.apache.org/en/index.html  
 
-## Covid-19 map
+## Covid-19 map 
 An interactive web-map to explore covid-19 cases (confirmed, active, recovered, dead) for almost all countries in the world. When clicking on a country/region a line-chart will appear and display information on the different cases per day for the selected country/region. By using the ‘logarithmic/linear’ button on the bottom left the y-Scale can be toggled between a linear or logarithmic scale which is useful for countries with low amounts of cases or the beginning stages for other countries. 
 
 On the upper right side of the page, there are three charts and one statistic graph. They are showing the global situation by default. When users click on a specific country/region, the charts would change and show the numbers and distributions of this selected country/region. Users can also switch charts by clicking on the buttons.
